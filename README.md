@@ -3,6 +3,8 @@ DocuMind AI is a powerful and privacy-focused application designed to transform 
 
 # Introduction
 DocuMind AI is a powerful and privacy-focused application designed to transform how you interact with PDF documents. Built with a user-friendly Streamlit interface, this tool allows you to engage in conversational Q&A sessions directly with your files, eliminating the need for manual searching. At its core, the project employs a Retrieval-Augmented Generation (RAG) architecture. Upon uploading a PDF, the system processes its content, converting text into numerical representations stored within a local vector database. This enables an AI agent to perform rapid, semantic retrieval of the most relevant information when you ask a question. Leveraging Ollama, the application runs large language models (LLMs) and agentic workflows entirely on your local machine, guaranteeing that your documents and queries remain completely private. By grounding its responses in the context retrieved from the vector database, the AI provides precise, accurate answers, making it an ideal solution for students, researchers, and professionals who need to efficiently extract insights without compromising data confidentiality.
+![Doc Upload Success](https://github.com/user-attachments/assets/be256fcc-bcf4-46d4-990f-898e7fd9c002)
+
 
 # 🚀 Demo
 https://drive.google.com/file/d/1912Dhe5XfvH7TyMv5C7am-BYvXrrrf69/view?usp=sharing
